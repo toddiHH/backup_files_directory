@@ -11,9 +11,9 @@ Concrete5 addon that provides a one-click backup of a site's content and databas
 This addon has been tested with Concrete5.6.1.2 (it might work with lower versions, but we haven't tried it yet).
 
 ## Installation
-1) Download the ZIP of this repository or clone it.
-2) Copy the `/packages/backup_files_directory` folder from the unzipped / cloned project into your site's `/packages/ directory`.
-3) Install the addon via your site's "Install" (a.k.a. "Add Functionality") dashboard page.
+ 1. Download the ZIP of this repository or clone it.
+ 2. Copy the `/packages/backup_files_directory` folder from the unzipped / cloned project into your site's `/packages/ directory`.
+ 3. Install the addon via your site's "Install" (a.k.a. "Add Functionality") dashboard page.
 
 ## How It Works
 Once installed, you will see a new dashboard page called "Backup Files Directory" in the `System & Settings > Backup & Restore` section.
